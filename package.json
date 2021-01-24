@@ -11,7 +11,9 @@
   },
   "author": "jeroentvb",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "modularize-html": "^3.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeroentvb/modularize-html-boilerplate.git"
