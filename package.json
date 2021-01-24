@@ -1,0 +1,28 @@
+{
+  "name": "modularize-html-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate repo for modularize-html",
+  "private": true,
+  "scripts": {
+    "create-config": "modularize-html create-config",
+    "dev": "modularize-html serve",
+    "new-page": "modularize-html new-page",
+    "build": "modularize-html build"
+  },
+  "author": "jeroentvb",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroentvb/modularize-html-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeroentvb/modularize-html-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jeroentvb/modularize-html-boilerplate#readme",
+  "keywords": [
+    "boilerplate",
+    "modularize",
+    "html"
+  ]
+}
