@@ -13,6 +13,7 @@ It can also minify js & css, and encode png and jpeg files to webp on build.
   + [build.pageTitle.suffix](#buildpagetitlesuffix)
   + [development.removeWebpSources](#developmentremovewebpsources)
   + [development.staticSite](#developmentstaticsite)
+  + [sass](#sass)
 * [Development](#development)
   + [New page](#new-page)
   + [Page titles](#page-titles)
@@ -67,6 +68,10 @@ Remove `.webp` `<source>` tags from a `<picture>` element while running the dev 
 *Boolean*  
 Send message to the browser if the link navigate to doesn't contain `.html`. That means it's not linked in the html with `.html` and won't work as a static site.  
 If you are planning on hosting the pages on a web server, you won't need to do so, because the server should resolve the url.
+
+### sass
+*Boolean*
+To use scss while developing, set this to true. Entry file is `styles.scss`.
 
 ## Development
 To develop the website, this app uses a simple [express](https://www.npmjs.com/package/express) server. To run the dev server enter `npm run dev` in the terminal.

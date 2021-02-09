@@ -1,6 +1,6 @@
 {
   "name": "modularize-html-boilerplate",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "description": "Boilerplate repo for modularize-html",
   "private": true,
   "scripts": {
