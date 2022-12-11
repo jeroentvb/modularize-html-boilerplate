@@ -12,7 +12,7 @@
   "author": "jeroentvb",
   "license": "ISC",
   "dependencies": {
-    "modularize-html": "^3.1.7"
+    "modularize-html": "^3.1.8"
   },
   "repository": {
     "type": "git",
